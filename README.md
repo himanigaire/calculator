@@ -30,5 +30,13 @@ A web-based calculator with basic arithmetic functions. This project includes HT
 6. **Equal (`=`) Button**:
    - This button evaluates the current expression shown in the display and displays the result.
 
-## Usage Instru
+## Usage Instructions
+
+1. Open **index.html** in any modern web browser.  
+2. Click the buttons on the calculator to input numbers and operators.  
+3. Press `=` to view the result.  
+4. Use `C` to clear the display or `DEL` to remove the last entry.  
+
+## Author  
+**Himani Gaire**
 
